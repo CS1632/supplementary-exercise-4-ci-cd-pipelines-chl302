@@ -1,4 +1,4 @@
-package edu.pitt.cs ;
+package edu.pitt.cs;
 
 public class Cat {
 
